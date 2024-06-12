@@ -79,7 +79,7 @@ for i in heroes:
     print(i)
 
 print("")
-
+   
 # e)
 for i in super_heroes:
     if i ["año_aparicion"] < 1963:
